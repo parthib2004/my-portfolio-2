@@ -25,25 +25,25 @@
     {
       "label": "about",
       "about": "To know about me",
-      "value": "Hey there! I'm John Doe, a senior software engineer at Random Pvt. Ltd. in America  with a love for crafting digital solutions."
+      "value": "I'm Parthib, a developer with a strong interest in Machine Learning, Generative AI, and building intelligent applications using Large Language Models (LLMs). I enjoy applying these technologies to solve practical challenges, whether it’s through AI-powered chatbots or predictive data science models. With experience in frameworks like Hugging Face, Flask, and cloud computing, I combine web development skills with AI innovation to create scalable, user-friendly solutions. My journey involves constant learning and contributing to cutting-edge projects across various domains."
     },
     {
       "label": "skills",
       "about": "To know about my skills",
-      "value": "I'm a versatile full-stack developer, adept at turning ideas into robust web applications. <br /> <br /> Proficient in MERN stack, Redux, React-Redux, Tailwind CSS, SQL, RESTful APIs and many more."
+      "value": "Here’s a paragraph summarizing your skills:\nI am proficient in designing and implementing machine learning models and algorithms, including both supervised and unsupervised learning, with experience in generative AI and Large Language Models (LLMs) using frameworks like Hugging Face Transformers. My web development skills encompass full-stack expertise with HTML, CSS, JavaScript, React for dynamic UIs, and Flask for backend development, complemented by styling with Tailwind CSS and Bootstrap, and database management with MongoDB and MySQL. In data science, I excel in data analysis, visualization, and predictive modeling, with a strong foundation in data preprocessing and statistical methods. I am knowledgeable in cloud computing and deployment, utilizing Docker for containerization and platforms like Netlify for application deployment. My IoT and embedded systems experience includes working with NodeMCU ESP8266, sensors, and actuators to build smart systems like automated plant watering systems. I am proficient in Python, JavaScript, and familiar with PHP and Go, capable of writing clean, efficient code and integrating with APIs. Additionally, I have experience with relational and NoSQL databases, designing schemas and performing CRUD operations, and I am skilled in using development tools and platforms such as Git, Docker, and cloud services."
     },
     {
       "label": "experience",
       "about": "To know about my experience",
-      "value": "I have more than 10 years of experience.",
+      "value": "I have more than 1 year of experience.",
       "data": [
         {
-          "label": "Random Pvt Ltd",
-          "value": "Senior software engineer <br />  Year:  2015-present"
+          "label": "Pinnacle Labs Pvt Ltd",
+          "value": "Data Science Intern <br />  Year:  2024-present"
         },
         {
-          "label": "Example Pvt Ltd",
-          "value": "Associate Software engineer <br />  Year:  2010-2015"
+          "label": "Pinnacle Labs Pvt Ltd",
+          "value": "Python Internship <br />  Year:  2023"
         }
       ]
     },
@@ -53,19 +53,19 @@
       "value": "I've had the pleasure of working on diverse projects that showcase my skills and creativity.",
       "data": [
         {
-          "label": "E-commerce Platform",
-          "value": "Designed and developed a dynamic e-commerce website, featuring seamless payment processing and an extensive product catalog.",
-"url": "https://www.google.com"
+          "label": "Text to Image Generator",
+          "value": "I developed a Text-to-Image Generator that transforms textual descriptions into detailed images using advanced AI models. This system leverages state-of-the-art generative algorithms to create visually compelling images based on user input. By interpreting natural language descriptions, the generator produces images that accurately reflect the provided text, offering a unique way to visualize ideas and concepts. The application features an easy-to-use interface where users can input descriptive text and receive high-quality images in response. This tool demonstrates the potential of generative AI in bridging the gap between textual information and visual representation, making it a powerful resource for creative and practical applications.",
+"url": "https://parthib-text2img.netlify.app/"
         },
         {
-          "label": "Inventory Management System",
-          "value": "Crafted an intuitive application for efficient tracking and management of inventory in warehouse environments.",
-"url": "https://www.google.com"
+          "label": "Movie Recommender System",
+          "value": "I created a Movie Recommender System designed to help users discover films based on their preferences. This system utilizes collaborative filtering and content-based algorithms to analyze user preferences and movie attributes, delivering personalized recommendations. By leveraging a combination of user ratings and movie metadata, the recommender provides accurate suggestions tailored to individual tastes. The system features an intuitive interface that allows users to easily browse and select movies, enhancing their viewing experience with smart, data-driven recommendations. Its ability to adapt and learn from user interactions ensures that the recommendations remain relevant and engaging over time.",
+"url": "https://movie-recommender-system-parthib.streamlit.app/"
         },
         {
-          "label": "Social Media Analytics Dashboard",
-          "value": "Built a powerful tool for analyzing social media data, providing insightful reports and visualizations.",
-"url": "https://www.google.com"
+          "label": "AI Chatbot",
+          "value": "I developed an AI chatbot using the Gemini platform, designed to provide engaging and interactive conversations with users. This chatbot leverages Gemini’s advanced natural language processing capabilities to understand and respond to a wide range of queries. The system is integrated with a web interface, allowing users to seamlessly communicate with the chatbot in real-time. The chatbot is equipped with features such as context-aware responses and personalized interactions, making it a versatile tool for customer support, information retrieval, and user engagement. Its ability to handle complex conversations and deliver accurate information demonstrates the power of Gemini’s AI technology in creating sophisticated conversational agents",
+"url": "https://chatbot-parthib.streamlit.app/"
         },
         {
           "label": "Real-time Chat Application",
@@ -77,7 +77,7 @@
     {
       "label": "contact",
       "about": "To get my contact details",
-      "value": "Feel free to reach out! You can contact me for any inquiries or collaborations. <br/> Email:  john.doe@example.com  <br/> GitHub:  https://github.com/johnDoe  <br/> LinkedIn:  https://www.linkedin.com/in/johndoe"
+      "value": "Feel free to reach out! You can contact me for any inquiries or collaborations. <br/> Email:  parthib.sarkar04@gmail.com  <br/> GitHub:  https://github.com/parthib2004  <br/> LinkedIn:  https://www.linkedin.com/in/parthib-sarkar-859838293/"
     }
   ]
 }
