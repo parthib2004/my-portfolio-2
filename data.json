@@ -68,9 +68,9 @@
 "url": "https://chatbot-parthib.streamlit.app/"
         },
         {
-          "label": "Real-time Chat Application",
-          "value": "Developed a cutting-edge messaging app with real-time capabilities, supporting both group chats and a fun array of emojis.",
-"url": "https://www.google.com"
+          "label": "Promptify",
+          "value": "Promptify is a versatile tool designed to enhance the experience of interacting with AI language models. It allows users to generate, refine, and manage prompts for various applications, making it easier to harness the power of AI. With features that facilitate prompt optimization and customization, Promptify helps users achieve more accurate and relevant outputs, whether for creative writing, coding assistance, or data analysis. Its user-friendly interface and integration capabilities make it an essential resource for anyone looking to maximize their productivity with AI technologies.",
+"url": "https://promptify-parthib.streamlit.app/"
         }
       ]
     },
